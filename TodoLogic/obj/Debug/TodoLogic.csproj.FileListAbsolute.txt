@@ -1,0 +1,15 @@
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\TodoLogic.dll.config
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\TodoLogic.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\TodoLogic.pdb
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\EntityFramework.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\ToDoAppData.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\ToDoAppData.pdb
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\ToDoAppData.dll.config
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\EntityFramework.xml
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\obj\Debug\TodoLogic.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\obj\Debug\TodoLogic.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\obj\Debug\TodoLogic.csproj.CopyComplete
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\obj\Debug\TodoLogic.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\TodoLogic\obj\Debug\TodoLogic.pdb

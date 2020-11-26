@@ -1,0 +1,12 @@
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\ToDoAppData.dll.config
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\ToDoAppData.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\ToDoAppData.pdb
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\EntityFramework.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\EntityFramework.SqlServer.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\EntityFramework.xml
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\bin\Debug\EntityFramework.SqlServer.xml
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\obj\Debug\ToDoAppData.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\obj\Debug\ToDoAppData.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\obj\Debug\ToDoAppData.csproj.CopyComplete
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\obj\Debug\ToDoAppData.dll
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppData\obj\Debug\ToDoAppData.pdb
