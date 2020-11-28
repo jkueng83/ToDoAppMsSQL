@@ -37,7 +37,7 @@ namespace ToDoAppWithMsSQL
             // 
             // btAddTodoes
             // 
-            this.btAddTodoes.Location = new System.Drawing.Point(39, 422);
+            this.btAddTodoes.Location = new System.Drawing.Point(39, 113);
             this.btAddTodoes.Name = "btAddTodoes";
             this.btAddTodoes.Size = new System.Drawing.Size(75, 23);
             this.btAddTodoes.TabIndex = 10;
@@ -47,7 +47,7 @@ namespace ToDoAppWithMsSQL
             // 
             // btShowTodos
             // 
-            this.btShowTodos.Location = new System.Drawing.Point(39, 380);
+            this.btShowTodos.Location = new System.Drawing.Point(39, 64);
             this.btShowTodos.Name = "btShowTodos";
             this.btShowTodos.Size = new System.Drawing.Size(97, 23);
             this.btShowTodos.TabIndex = 9;
