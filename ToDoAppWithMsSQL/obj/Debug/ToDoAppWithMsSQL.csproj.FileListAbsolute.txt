@@ -19,3 +19,5 @@ C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\bin\Debug\TodoLogi
 C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\bin\Debug\TodoLogic.pdb
 C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\bin\Debug\TodoLogic.dll.config
 C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\obj\Debug\ToDoAppWithMsSQL.Form1.resources
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\obj\Debug\ToDoAppWithMsSQL.AddToDos.resources
+C:\03_Coding\02 Projects\C#\ToDoAppWithMsSQL\ToDoAppWithMsSQL\obj\Debug\ToDoAppWithMsSQL.ShowToDos.resources

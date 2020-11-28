@@ -56,6 +56,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddToDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToDos.Designer.cs">
+      <DependentUpon>AddToDos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowToDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowToDos.Designer.cs">
+      <DependentUpon>ShowToDos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +76,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddToDos.resx">
+      <DependentUpon>AddToDos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowToDos.resx">
+      <DependentUpon>ShowToDos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

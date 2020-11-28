@@ -14,23 +14,22 @@ namespace ToDoAppWithMsSQL
 {
     public partial class Form1 : Form
     {
-        TodoLogicController _logicController;
         public Form1()
         {
             InitializeComponent();
-
-           _logicController = new TodoLogicController();
-
-            
         }
 
-        private void btAddToDo_Click(object sender, EventArgs e)
+
+        private void btShowAllTodos_Click(object sender, EventArgs e)
         {
-            _logicController.AddNewToDo(tBoxToDo.Text, 
-                rTBoxDescription.Text , 
-                (dateTimePickerDeadlineDate.Value.Date + dateTimePickerDeadlineHour.Value.TimeOfDay));
+            var ToDos = new ShowToDos();
+            ToDos.Show();
         }
 
-       
+        private void btAddTodoes_Click(object sender, EventArgs e)
+        {
+            var addTodos = new AddToDos();
+            addTodos.Show();
+        }
     }
 }
