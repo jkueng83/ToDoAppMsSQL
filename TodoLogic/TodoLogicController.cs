@@ -17,8 +17,7 @@ namespace TodoLogic
         }
         public void AddNewToDo(string name, string description, DateTime deadline)
         {
-            // für die ersten Tests
-           
+                       
             todo todo = new todo()
             {
                 name = name,
@@ -45,9 +44,24 @@ namespace TodoLogic
 
         public List<todo> GetTodos (DateTime deadlineBefore , bool isDone)
         {
-            return _toDoEntities.todo.Select(x => x).
-                Where(x => x.isdone == isDone && x.deadline < deadlineBefore).ToList();
+            List<todo> todos = _toDoEntities.todo.Select(x => x).
+               Where(x => x.isdone == isDone && x.deadline < deadlineBefore).ToList();
+                      return todos;
 
+        }
+
+        public void ChangeTodo(todo todo)
+        {
+            //_toDoEntities.todo.Find(todo);
+            var todoTemp = _toDoEntities.todo.Where(x => x.id == todo.id).Single();
+            todoTemp = todo;
+            _toDoEntities.SaveChanges();
+        }
+
+        public void DeleteTodo(todo todo)
+        {
+            _toDoEntities.todo.Remove(todo);
+            _toDoEntities.SaveChanges();
         }
 
 
